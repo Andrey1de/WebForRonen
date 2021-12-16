@@ -1,0 +1,53 @@
+﻿[
+
+
+  {
+    "id": 1,
+    "firstName": "Beni",
+    "lastName": "Begin",
+    "phoneNumbers": [ "051-111-11-11", "051-111-22-22" ],
+    "cityId": 1
+
+  },
+  {
+    "id": 10,
+    "firstName": "Moshe",
+    "lastName": "Dayan",
+    "phoneNumbers": [ "051-222-11-11", "051-222-22-22" ],
+    "cityId": 1
+
+  },
+  {
+    "id": 2,
+    "firstName": "Avi",
+    "lastName": "Kaduri",
+    "phoneNumbers": [ "052-222-11-11", "052-222-22-22" ],
+    "cityId": 2
+
+  },
+  {
+    "id": 3,
+    "firstName": "Avigal",
+    "lastName": "Rokah",
+    "phoneNumbers": [ "053-333-11-11", "053-333-33-33" ],
+    "cityId": 3
+
+  },
+  {
+    "id": 4,
+    "firstName": "Meir",
+    "lastName": "Kats",
+    "phoneNumbers": [ "054-444-11-11", "054-444-44-44" ],
+    "cityId": 4
+
+  },
+  {
+    "id": 5,
+    "firstName": "Boris",
+    "lastName": "Fridman",
+    "phoneNumbers": [ "0552-555-11-11" ],
+    "cityId": 5
+
+  }
+
+]

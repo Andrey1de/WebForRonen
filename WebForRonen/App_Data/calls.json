@@ -1,0 +1,110 @@
+﻿[
+
+  {
+
+    "phoneNumber": "051-111-11-11",
+    "callTime": 1000
+
+  },
+  {
+
+    "phoneNumber": "051-111-11-11",
+    "callTime": 2000
+
+  },
+  {
+
+    "phoneNumber": "051-111-11-11",
+    "callTime": 3000
+
+  },
+  {
+
+    "phoneNumber": "051-111-22-22",
+    "callTime": 500
+
+  },
+  {
+
+    "phoneNumber": "051-111-22-22",
+    "callTime": 1000
+
+  },
+  {
+
+    "phoneNumber": "051-111-22-22",
+    "callTime": 1500
+
+  },
+
+  {
+
+    "phoneNumber": "051-222-11-11",
+    "callTime": 1100
+
+  },
+  {
+
+    "phoneNumber": "051-222-11-11",
+    "callTime": 210
+
+  },
+  {
+
+    "phoneNumber": "051-222-11-11",
+    "callTime": 3100
+
+  },
+  {
+
+    "phoneNumber": "051-222-22-22",
+    "callTime": 600
+
+  },
+  {
+
+    "phoneNumber": "051-222-22-22",
+    "callTime": 1100
+
+  },
+
+
+
+  {
+    "phoneNumber": "052-222-11-11",
+    "callTime": 1200
+
+  },
+  {
+
+    "phoneNumber": "0054-444-11-11",
+    "callTime": 2000
+
+  },
+  {
+
+    "phoneNumber": "052-222-22-22",
+    "callTime": 1500
+
+  },
+  {
+
+    "phoneNumber": "053-333-33-33",
+    "callTime": 1010
+
+  },
+  {
+
+    "phoneNumber": "053-333-33-33",
+    "date": "2021-12-14 02:10",
+    "callTime": 1110
+
+  },
+  {
+
+    "phoneNumber": "053-333-33-33",
+    "callTime": 1999
+
+  }
+
+]
