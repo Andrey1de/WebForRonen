@@ -10,8 +10,27 @@ using WebForRonen.Models;
 
 namespace WebForRonen.DAL
 {
+
+
     public class DAL
     {
+        public class CallDal
+        {
+            public string PhoneNumber { get; set; }
+            public string CallTime { get; set; } //
+
+            public Call ToCall()
+            {
+                TimeSpan sp;
+                return new Call()
+                {
+                    PhoneNumber = this.PhoneNumber,
+                    CallTime = TimeSpan.TryParse(this.CallTime, out sp) ? (int)sp.TotalSeconds : 0
+                };
+            }
+
+
+        }
         static readonly string appDataPath = HostingEnvironment.MapPath("~/App_Data");
 
 
@@ -85,7 +104,21 @@ namespace WebForRonen.DAL
         public static List<Call> Calls => _Calls.Value;
 
         static Lazy<List<Call>> _Calls =
-                  new Lazy<List<Call>>(() => ReadJson<Call>("Calls.json"));
+                  new Lazy<List<Call>>(() =>
+                  {
+                      var callsDal = ReadJson<CallDal>("Calls.json");
+                      var calls = callsDal.Select(p => p.ToCall());
+                      return calls.ToList();
+
+                  });
+
+        //private static List<Call> RetrieveCalls()
+        //{
+        //    var callsDal = ReadJson<CallDal>("Calls.json");
+        //    var calls = callsDal.Select(p => p.ToCall());
+        //    return calls.ToList();
+
+        //}
 
         #endregion
 

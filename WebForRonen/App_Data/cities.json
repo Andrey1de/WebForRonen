@@ -1,37 +1,22 @@
-﻿[
+[
   {
     "id": 1,
     "name": "Tel Aviv"
   },
   {
     "id": 2,
-    "name": "Petah Tikva"
+    "name": "Eilat"
   },
   {
     "id": 3,
-    "name": "Haifa"
+    "name": "Netanya"
   },
-
   {
     "id": 4,
-    "name": "Karmiel"
+    "name": "Jerusalem"
   },
   {
     "id": 5,
-    "name": "Ashdod"
-  },
-
-  {
-    "id": 6,
-    "name": "Nahariya"
-  },
-
-  {
-    "id": 7,
-    "name": "RamatGan"
-  },
-  {
-    "id": 8,
-    "name": "Natanya"
+    "name": "Haifa"
   }
 ]

@@ -1,110 +1,50 @@
-﻿[
-
+[
   {
-
-    "phoneNumber": "051-111-11-11",
-    "callTime": 1000
-
+    "callTime": "00:00:10",
+    "phoneNumber": "0538096525"
   },
   {
-
-    "phoneNumber": "051-111-11-11",
-    "callTime": 2000
-
+    "callTime": "00:15:30",
+    "phoneNumber": "0538096525"
   },
   {
-
-    "phoneNumber": "051-111-11-11",
-    "callTime": 3000
-
+    "callTime": "00:00:40",
+    "phoneNumber": "0537104537"
   },
   {
-
-    "phoneNumber": "051-111-22-22",
-    "callTime": 500
-
+    "callTime": "01:10:00",
+    "phoneNumber": "0538096525"
   },
   {
-
-    "phoneNumber": "051-111-22-22",
-    "callTime": 1000
-
+    "callTime": "00:17:00",
+    "phoneNumber": "0534556454"
   },
   {
-
-    "phoneNumber": "051-111-22-22",
-    "callTime": 1500
-
-  },
-
-  {
-
-    "phoneNumber": "051-222-11-11",
-    "callTime": 1100
-
+    "callTime": "00:25:00",
+    "phoneNumber": "0539375532"
   },
   {
-
-    "phoneNumber": "051-222-11-11",
-    "callTime": 210
-
+    "callTime": "00:37:00",
+    "phoneNumber": "0537104537"
   },
   {
-
-    "phoneNumber": "051-222-11-11",
-    "callTime": 3100
-
+    "callTime": "00:12:00",
+    "phoneNumber": "0539375532"
   },
   {
-
-    "phoneNumber": "051-222-22-22",
-    "callTime": 600
-
+    "callTime": "00:18:00",
+    "phoneNumber": "0539375532"
   },
   {
-
-    "phoneNumber": "051-222-22-22",
-    "callTime": 1100
-
-  },
-
-
-
-  {
-    "phoneNumber": "052-222-11-11",
-    "callTime": 1200
-
+    "callTime": "00:12:30",
+    "phoneNumber": "0521234567"
   },
   {
-
-    "phoneNumber": "0054-444-11-11",
-    "callTime": 2000
-
+    "callTime": "00:11:00",
+    "phoneNumber": "0505104522"
   },
   {
-
-    "phoneNumber": "052-222-22-22",
-    "callTime": 1500
-
-  },
-  {
-
-    "phoneNumber": "053-333-33-33",
-    "callTime": 1010
-
-  },
-  {
-
-    "phoneNumber": "053-333-33-33",
-    "date": "2021-12-14 02:10",
-    "callTime": 1110
-
-  },
-  {
-
-    "phoneNumber": "053-333-33-33",
-    "callTime": 1999
-
-  }
-
+    "callTime": "00:27:00",
+    "phoneNumber": "0539375532"
+  } 
 ]

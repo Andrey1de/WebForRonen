@@ -9,9 +9,11 @@ namespace WebForRonen.Models
 {
     public class Call
     {
-        public string   PhoneNumber { get; set; }
-        public string   Date        { get; set; }
-        public int      CallTime    { get; set; } //secs
+        public string PhoneNumber { get; set; }
+          public int CallTime { get; set; } //secs
 
     }
+
+
+
 }
